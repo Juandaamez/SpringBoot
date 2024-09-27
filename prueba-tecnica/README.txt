@@ -23,22 +23,6 @@ Pasos para instalar el plugin de Lombok en IntelliJ IDEA:
     - Ve a `File > Settings > Build, Execution, Deployment > Compiler > Annotation Processors`.
     - Marca la opción `Enable annotation processing`.
 
-
-INSTALACIÓN
-1. Clona este repositorio:
-
-    git clone https://github.com/Juandaamez/SpringBoot/tree/5b8288d4aa299ec7383ebec1210aaa48d0845a75/prueba-tecnica
-
-2. Accede al directorio del proyecto:
-
-    cd prueba-tecnica
-
-3. Compila el proyecto y descarga las dependencias con Maven:
-
-    mvn clean install
-
-4. Verifica que el plugin de Lombok esté correctamente configurado en tu IDE (ver la sección "Plugin de Lombok").
-
 EJECUCION DEL PROYECTO
 Para ejecutar el proyecto localmente:
 
